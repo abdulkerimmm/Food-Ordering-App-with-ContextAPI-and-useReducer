@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-Ordering-App-with-ContextAPI-and-useReducer/static/css/main.2e603fe4.css",
+    "main.js": "/Food-Ordering-App-with-ContextAPI-and-useReducer/static/js/main.9d726537.js",
+    "static/media/meals.jpg": "/Food-Ordering-App-with-ContextAPI-and-useReducer/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Food-Ordering-App-with-ContextAPI-and-useReducer/index.html",
+    "main.2e603fe4.css.map": "/Food-Ordering-App-with-ContextAPI-and-useReducer/static/css/main.2e603fe4.css.map",
+    "main.9d726537.js.map": "/Food-Ordering-App-with-ContextAPI-and-useReducer/static/js/main.9d726537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e603fe4.css",
+    "static/js/main.9d726537.js"
+  ]
+}
